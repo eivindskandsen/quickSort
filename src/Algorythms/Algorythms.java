@@ -3,7 +3,7 @@ package Algorythms;
 public class Algorythms {
 
     public static void delsortering(int[]innArray){
-        int midlertidigVariabel=0;
+        int midlertidigVariabel;
         int antallOddetall=0;
         int start=0;
 
