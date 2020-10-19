@@ -10,5 +10,7 @@ public class Main {
     Algorythms.delsortering(a);
         System.out.println(Arrays.toString(a));
 
+        System.out.println(Arrays.toString(a));
+
     }
 }
